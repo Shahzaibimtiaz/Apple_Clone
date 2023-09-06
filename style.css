@@ -1,0 +1,1935 @@
+* {
+    /* overflow-x: hidden; */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* header */
+
+    header {
+        background-color: #f5f5f7;
+        width: 100%;
+    }
+
+    nav {
+        display: flex;
+        justify-content: center;
+    }
+
+    nav img {
+        width: 17px;
+        height: 17px;
+        margin: 16px;
+    }
+
+    nav a {
+        margin: 18px;
+        font-size: 12px;
+        text-decoration: none;
+        color: rgb(29, 29, 29);
+    }
+
+
+/* iphone-14 */
+
+    .iphone14 {
+        text-align: center;
+        margin: 60px 0px;
+    }
+
+    .iphone14-heading {
+        font-size: 23px !important;
+    }
+
+    .iphone14 h1 {
+        font-size: 45px;
+    }
+
+    .iphone14 p {
+        margin: 16px 0px;
+        font-size: 20px;
+    }
+
+    .iphone14 p sup {
+        font-size: 12px;
+    }
+
+    .iphone14-button {
+        display: flex;
+        justify-content: center;
+        margin: 16px 0px;
+    }
+
+    .iphone14-button button {
+        background-color: #0071e3;
+        color: white;
+        width: 60px;
+        border: none;
+        border-radius: 20px;
+        height: 35px;
+        font-size: 16px;
+        margin: 10px 12px;
+    }
+
+    .iphone14-button p a {
+        margin: 15px 12px;
+        text-decoration: none;
+        color: #0071e3;
+    }
+
+    .iphone14 img {
+        margin: 60px;
+        width: 1200px;
+    }
+
+
+
+/* iPhone 14 Pro */
+
+    .iphone14pro {
+        text-align: center;
+        background-color: black;
+        color: white;
+    }
+
+    .iphone14pro-div {
+        padding-top: 80px;
+    }
+
+    .iphone14pro-heading {
+        font-size: 23px !important;
+    }
+
+    .iphone14pro h1 {
+        font-size: 45px;
+    }
+
+    .iphone14pro p {
+        margin: 16px 0px;
+        font-size: 20px;
+    }
+
+    .iphone14pro p sup {
+        font-size: 12px;
+    }
+
+    .iphone14pro-button {
+        display: flex;
+        justify-content: center;
+        margin: 16px 0px;
+    }
+
+    .iphone14pro-button button {
+        background-color: #0071e3;
+        color: white;
+        width: 60px;
+        border: none;
+        border-radius: 20px;
+        height: 35px;
+        font-size: 16px;
+        margin: 10px 12px;
+    }
+
+    .iphone14pro-button p a {
+        margin: 15px 12px;
+        text-decoration: none;
+        color: #0071e3;
+    }
+
+    .iphone14pro img {
+        margin-top: 60px;
+    }
+
+
+
+/* iPhone SE */
+
+    .iphonese {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .iphonese-div {
+        margin: 250px 0px;
+    }
+
+    .iphonese-heading {
+        font-size: 23px !important;
+    }
+
+    .iphonese-heading sup {
+        border: 1px solid black;
+        border-radius: 5px;
+        font-size: 10px;
+        padding: 2px;
+    }
+
+    .iphonese h1 {
+        font-size: 45px;
+        background: linear-gradient(to right, #003870, #0e78e2);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    .iphonese p {
+        margin: 16px 0px;
+        font-size: 20px;
+    }
+
+    .iphonese p sup {
+        font-size: 12px;
+    }
+
+    .iphonese-button {
+        display: flex;
+        justify-content: center;
+        margin: 16px 0px;
+    }
+
+    .iphonese-button button {
+        background-color: #0071e3;
+        color: white;
+        width: 60px;
+        border: none;
+        border-radius: 20px;
+        height: 35px;
+        font-size: 16px;
+        margin: 10px 12px;
+    }
+
+    .iphonese-button p a {
+        margin: 15px 12px;
+        text-decoration: none;
+        color: #0071e3;
+    }
+
+    .iphonese img {
+        margin-top: 15px;
+        padding: 0px 30px;
+    }
+
+
+/* Guided Tour */
+
+    .Guid {
+        background-image: url(/images/guided_tour.jpg);
+        height: 814px;
+        background-repeat: no-repeat;
+        background-position: bottom;
+        border-radius: 30px;
+        margin: 20px 20px;
+        justify-content: center;
+        display: flex;
+    }
+
+    .Guid_div {   
+        color: white;
+        text-align: center;
+        padding: 290px 0px;
+        margin-right: 550px;
+    }
+
+    .Guid_heading {
+        font-size: 23px !important;
+    }
+
+    .Guid h1 {
+        font-size: 45px;
+    }
+
+    .Guid p {
+        margin: 12px 0px;
+        font-size: 20px;
+    }
+
+    .Guid p sup {
+        font-size: 12px;
+    }
+
+    .Guid-button button {
+        background-color: white;
+        color: black;
+        width: 130px;
+        border: none;
+        border-radius: 20px;
+        height: 35px;
+        font-size: 16px;
+        margin: 10px 0px;
+    }
+
+
+
+
+/* Compare */
+
+        .compare {
+            margin-top: 110px;
+        }
+        .compare_main_heading {
+            text-align: center;
+            font-size: 50px;
+        }
+
+        .compare_section {
+            display: flex;
+            justify-content: center;
+            margin-top: 0px;
+            padding: 60px;
+        }
+
+        .compare_img1 {
+            width: 151px;
+            height: 204px;
+        }
+
+        .compare_img2 {
+            margin: 20px 0px;
+            width: 40%;
+        }
+
+        .compare_mainheading {
+            margin: 18px;
+            font-size: 15px;
+        }
+
+        .compare_mainheading p {
+            margin-top: 10px;
+            font-size: 17px;
+        }
+
+        .compare_price {
+            margin: 40px 0px !important;
+            font-size: 15px;
+        }
+        .compare_price, p, button {
+            margin: 7px 0px;
+        }
+
+        .compare_price button {
+            background-color: #0e78e3;
+            color: white;
+            width: 55px;
+            height: 30px;
+            border: none;
+            border-radius: 20px;
+            font-size: 15px;
+        }
+
+        .compare_learnmore {
+            color: #0071e3;
+        }
+
+        .compare14pro, .compare14, .compare13, .comparese {
+            margin: 5px;
+            width: 240px;
+            text-align: center;
+        }
+
+        .compare_hr {
+            width: 190px;
+            margin-left: 25px;  
+            color: white; 
+        }
+
+        .compare_display {
+            margin: 45px 0px;
+        }
+        .compare_inch {
+            font-size: 20px;
+            margin: 12px 0px;
+            font-weight: 500;
+        }
+        .compare_displaytext {
+            font-size: 15px;
+            margin: 12px 0px;
+            font-weight: 500;
+        }
+
+        .compare_dynamic {
+            margin: 45px 0px;
+            font-size: 15px;
+        }
+        .compare_dynamictext {
+            color: #868686;
+            font-size: 15px;
+        }
+
+        .compare_sos {
+            margin: 45px 0px;
+            font-size: 15px;
+        }
+        .compare_sostext {
+            margin: 12px 0px;
+            font-size: 15px;
+        }
+
+        .compare_camera {
+            margin: 45px 0px;
+            font-size: 15px;
+        }
+
+        .compare_cameratext {
+            color: #868686;
+            font-size: 15px;
+        }
+
+        .compare_action {
+            margin: 45px 0px;
+            font-size: 15px;
+        }
+
+        .compare_battery {
+            margin: 45px 0px;
+            font-size: 15px;
+        }
+
+        .compare14pro_ios {
+            margin: 45px 0px;
+            font-size: 15px;
+        }
+
+        .compare_faceid {
+            margin: 45px 0px;
+            font-size: 15px;
+        }
+
+        .compare_5g {
+            margin: 45px 0px;
+            font-size: 15px;
+        }
+
+
+
+    .compareall {
+        display: flex;
+        justify-content: center;
+    }
+
+    .compareall p {
+        margin: 20px;
+        font-size: 22px;
+        color: #0071e3;
+    }
+
+
+
+/* Ways to save on iPhone */
+
+        .saveiphone {
+            background-color: #f2f2f2;
+            margin-top: 100px;
+        }
+
+        .saveiphone_mainheading {
+            text-align: center;
+            font-size: 50px;
+            padding: 100px;
+        }
+
+        .saveiphone_sub {
+            justify-content: center;
+            display: flex;
+        }
+
+        .saveiphone_credit, .saveiphone_pay {
+            background-color: white;
+            text-align: center;
+            width: 670px;
+            margin: 20px;
+        }
+
+        .saveiphone_credit {
+            background-image: url(/images/trade_in_2up__gc5cf1kas2uu_large.jpg);
+            background-repeat: no-repeat;
+            background-position: bottom;
+            height: 550px;
+        }
+
+        .saveiphone_pay {
+            background-image: url(/images/apple_card__bkmaxfjg05ua_large.jpg);
+            background-repeat: no-repeat;
+            background-position: bottom;
+        }
+
+
+        .saveiphone_credittext, .saveiphone_paytext {
+            margin: 40px 0px;
+        }
+
+        .saveiphone_paytext_text {
+            margin: 20px 0px;
+        }
+
+        .saveiphone_sub_learnmore {
+            color: #0071e3;
+            margin: 20px 0px;
+        }
+
+
+/* Why Apple is the best */
+
+    .appleisbest_div {
+        text-align: center;
+        padding: 100px 0px;
+
+        background-image: url(/images/why_apple__ezn1ktvka6oi_large.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 500px;
+    }
+
+    .appleisbest_div h1 {
+        font-size: 40px;
+    }
+
+    .appleisbest_p p {
+        font-size: 19px;
+    }
+
+    .appleisbest_p {
+        margin: 30px 0px;
+    }
+
+    .appleisbest_learnmore {
+        font-size: 19px;
+        color: #0071e3;
+    }
+
+
+
+/* magsafe */
+
+    .magsafe {
+        background-color: white;
+        width: 1300px;
+        height: 550px;
+        margin: 20px auto;
+
+        background-image: url(/images/magsafe__bfji5hb1mqsy_large.jpg);
+        background-repeat: no-repeat;
+        background-position: bottom right 60px;
+
+    }
+    .magsafe_div {
+        display: inline-grid;
+        padding-top: 65px;
+        padding-left: 165px; 
+    }
+
+    .magsafe_left {
+        text-align: center;
+        margin: 110px auto;
+
+    }
+    .magsafe_left h1 {
+        font-size: 40px;
+    }
+    .magsafe_left_text {
+        margin: 20px 0px;
+        font-size: 20px;
+    }
+    .magsafe_left_shop {
+        color: #0071e3;
+        font-size: 20px;
+    }
+
+
+/* Airtag */
+
+    .airtag {
+        background-color: white;
+        width: 1300px;
+        margin: 20px auto;
+
+        background-image: url(/images/airtag__b5lt0bcbd9ua_large.jpg);
+        background-repeat: no-repeat;
+    }
+    .airtag_div {
+        justify-content: center;
+        display: flex;
+    }
+
+    .airtag_left {
+        text-align: center;
+        margin: 160px auto;
+        margin-right: 140px;
+    }
+    .airtag_left h1 {
+        font-size: 40px;
+    }
+    .airtag_left_text {
+        margin: 20px 0px;
+        font-size: 20px;
+    }
+    .airtag_left_shop {
+        color: #0071e3;
+        font-size: 20px;
+    }
+
+
+
+/* Magic */
+
+    .magic{
+        background-color: white; 
+        width: 1300px;
+        margin: 20px auto;
+        height: 700px;
+
+        background-image: url(/images/airpods__eb24cvhoe26a_large.jpg);
+        background-repeat: no-repeat;
+        background-position: bottom;
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+
+    .magic_div {
+        text-align: center;
+        margin: 120px auto;
+        justify-content: center;
+        display: flex;
+    }
+
+    .magic_div_text {
+        margin: -72px;
+        position: absolute;
+        
+    }
+
+    .magic_div h1 {
+        font-size: 40px;
+    }
+
+    .magic_p p {
+        font-size: 19px;
+    }
+
+    .magic_p {
+        margin: 30px 0px;
+    }
+
+    .magic_learnmore {
+        font-size: 19px;
+        color: #0071e3;
+    }
+
+
+
+/* free */
+
+    .free {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        padding: 50px 0px;
+    }
+
+    .free_delivery {
+        margin: 50px;
+    }
+
+    .free_delivery h2 {
+        font-size: 25px;
+    }
+
+    .free_delivery_text {
+        font-size: 18px;
+        margin: 10px 0px;
+    }
+
+    .free_delivery span {
+        font-size: 18px;
+        color: #0071e3;
+    }
+
+
+
+/* Footer */
+
+    footer {
+        background-color: #f5f5f7;
+    }
+
+    footer hr {
+        width: 80%;
+        margin: auto;
+        height: 1px;
+        background-color: #ccc;
+        border: none;
+    }
+
+    .footer_logo {
+        display: flex;
+        margin-bottom: 20px;
+    }
+
+    .footer_logo img{
+        width: 17px;
+        height: 17px;
+        margin-top: 4px;
+    }
+
+    .footer_logo p{
+        font-size: 14px;
+        margin-left: 8px;
+    }
+
+    .footer_content {
+        justify-content: center;
+        display: flex;
+    }
+
+    .footer_line1, .footer_line2, .footer_line3, .footer_line4, .footer_line5  {
+        margin: 35px;
+    }
+    .footer_line2, .footer_line3, .footer_line4, .footer_line5  {
+        padding-top: 50px;
+    }
+
+    .footer_first ul{
+        list-style-type: none;
+    }
+
+    .footerul_heading {
+        font-weight: bold;
+        font-size: 13px;
+        color: rgb(19, 19, 19);
+    }
+
+    .footerli li {
+        margin: 10px 0px;
+        font-size: 13px;
+        color: #414040;
+    }
+
+    .footer_first_sub {
+        padding-top: 15px;
+    }
+
+    .footer_end {
+        padding-bottom: 50px;
+        padding-top: 12px;
+        display: flex;
+        justify-content: center;
+        margin-left: 30px;
+    }
+
+    .footer_endnav {
+        padding-left: 30px;
+    }
+
+    .footer_endnav a{
+        float: left;
+        text-decoration: none;
+        font-size: 13px;
+        color: #414040;
+        margin-left: 15px;
+    }
+
+    .footer_endcopyright {
+        font-size: 13px;
+        color: #414040;
+        float: left;
+    }
+
+    .footer_endcountry {
+        margin-left: 200px !important;
+    }
+
+
+
+
+
+
+
+/* Responsive */
+
+@media screen and (max-width:1250px) and (min-width:1024px) {
+    
+    .iphone14 img {
+        width: 90%;
+        margin: 40px 0px;
+        padding: 20px;
+        margin-bottom: -20px;
+    }
+    .iphone14pro img {
+        width: 100%;
+    }
+
+    .magsafe {
+        width: 90%;
+        background-position: bottom right -100px;
+        
+    }
+    .magsafe_div {
+        margin-left: -70px;
+        background-size: 20%;
+        
+    }
+    .magsafe_left {
+        width: 90%;
+    }
+
+    .airtag {
+        width: 90%;
+        background-position: bottom right 20px;
+        background-size: 55%;
+        width: 90%;
+        background-position: top left -150px;
+    }
+    
+    .magic{
+        width: 90%;
+        height: 700px;
+        background-position: bottom;
+    }
+    
+    .free {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        padding: 50px 18px;
+    }
+
+    .free_delivery {
+        margin: 23px;
+    }
+
+    .free_delivery h2 {
+        font-size: 20px;
+    }
+
+    .free_delivery_text {
+        font-size: 15px;
+        margin: 10px 0px;
+    }
+
+    .iphonese {
+        margin: 10px 0px;
+    }
+    .iphonese-div {
+        margin: 0px;
+        width: 100%;
+        padding: 250px 0px;
+    }
+
+    .footer_line1, .footer_line2, .footer_line3, .footer_line4, .footer_line5  {
+        margin: 14px;
+    }
+
+    .footerul_heading {
+        font-weight: bold;
+        font-size: 12px;
+        color: rgb(19, 19, 19);
+    }
+    
+    .footerli li {
+        margin: 10px 0px;
+        font-size: 11px;
+        color: #414040;
+    }
+    
+    .footer_first_sub {
+        padding-top: 15px;
+    }
+    
+    .footer_endnav {
+        display: none;
+    }
+    .footer_endcopyright {
+        font-size: 11px;
+    }  
+    .footer_endcountry {
+        display: none;
+    }
+
+}
+
+
+
+@media screen and (max-width:1024px) and (min-width:768px) {
+    
+    nav a {
+        display: none;
+    }
+    nav {
+        justify-content: space-between;
+    }
+    .nav_apple_logo {
+        float: left;
+    }
+
+    .iphone14 img {
+        width: 90%;
+        margin: 40px 0px;
+        padding: 20px;
+        margin-bottom: -20px;
+    }
+    .iphone14pro img {
+        width: 100%;
+    }
+
+    .compare_main_heading {
+        font-size: 40px;
+    }
+    .saveiphone_mainheading {
+        font-size: 40px;
+    }
+    .saveiphone_mainheading {
+        font-size: 40px;
+    }
+
+    .compare_section {
+        flex-wrap: wrap;
+    }
+    .compare14pro, .compare14{
+        width: 40%;
+    }
+    .compare13, .comparese {
+        width: 40%;
+    }
+    .compare_img2 {
+        margin: 20px auto;
+        width: 100px;
+        display: flex;
+        justify-content: center;
+    }
+    .compare_hr {
+        width: 190px;
+        margin: 25px auto; 
+        display: flex;
+        justify-content: center; 
+    }
+
+    .magsafe {
+        width: 90%;
+        height: 800px;
+        background-position: bottom;
+    }
+    .magsafe_div {
+        display: contents;
+    }
+    .magsafe_left {
+        padding-top: 70px;
+        margin: 0px;
+    }
+
+    .airtag {
+        width: 90%;
+        height: 860px;
+        background-position: bottom;
+    }
+    .airtag_left {
+        padding-top: 70px;
+        margin: 0px;
+    }
+
+    .magic{
+        width: 90%;
+        height: 700px;
+        background-position: bottom;
+    }
+
+    .free {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        padding: 50px 18px;
+    }
+
+    .free_delivery {
+        margin: 23px;
+    }
+
+    .free_delivery h2 {
+        font-size: 20px;
+    }
+
+    .free_delivery_text {
+        font-size: 15px;
+        margin: 10px 0px;
+    }
+
+    .iphonese {
+        flex-wrap: wrap;
+    }
+    .iphonese-div {
+        margin: 0px;
+        width: 100%;
+        padding-top: 60px;
+    }
+    .iphonese img {
+        width: 45%;
+    }
+
+    .appleisbest_div {
+        width: 98%;
+    }
+
+    .Guid_div {   
+        margin-right: 345px;
+    }
+
+    .footer_line1, .footer_line2, .footer_line3, .footer_line4, .footer_line5  {
+        margin: 14px;
+    }
+
+    .footerul_heading {
+        font-weight: bold;
+        font-size: 12px;
+        color: rgb(19, 19, 19);
+    }
+    
+    .footerli li {
+        margin: 10px 0px;
+        font-size: 11px;
+        color: #414040;
+    }
+    
+    .footer_first_sub {
+        padding-top: 15px;
+    }
+        
+    .footer_endnav {
+        display: none;
+    }
+    .footer_endcopyright {
+        font-size: 11px;
+    }  
+    .footer_endcountry {
+        display: none;
+    }
+    
+}
+
+
+
+
+
+@media screen and (max-width:767px) and (min-width:600px) {
+    
+    nav a {
+        display: none;
+    }
+    nav {
+        justify-content: space-between;
+    }
+    .nav_apple_logo {
+        float: left;
+    }
+
+    .iphone14 img {
+        width: 90%;
+        margin: 40px 0px;
+        padding: 20px;
+        margin-bottom: -20px;
+    }
+    .iphone14pro img {
+        width: 100%;
+    }
+
+    .compare_main_heading {
+        font-size: 33px;
+    }
+    .saveiphone_mainheading {
+        font-size: 33px;
+    }
+    .saveiphone_mainheading {
+        font-size: 33px;
+    }
+
+    .compare_section {
+        flex-wrap: wrap;
+    }
+    .compare14pro, .compare14{
+        width: 40%;
+    }
+    .compare13, .comparese {
+        width: 40%;
+    }
+    .compare_img2 {
+        margin: 20px auto;
+        width: 100px;
+        display: flex;
+        justify-content: center;
+    }
+    .compare_hr {
+        width: 190px;
+        margin: 25px auto; 
+        display: flex;
+        justify-content: center; 
+    }
+    .compareall p {
+        font-size: 19px;
+    }
+
+    .saveiphone_credit, .saveiphone_pay {
+        width: 50%;
+    }
+
+    .magsafe {
+        width: 90%;
+        height: 800px;
+        background-position: bottom;
+    }
+    .magsafe_div {
+        display: contents;
+    }
+    .magsafe_left {
+        padding-top: 70px;
+        margin: 0px;
+    }
+
+    .airtag {
+        width: 90%;
+        height: 860px;
+        background-position: bottom;
+    }
+    .airtag_left {
+        padding-top: 70px;
+        margin: 0px;
+    }
+
+    .magic{
+        width: 90%;
+        height: 700px;
+        background-position: bottom;
+    }
+    
+    .free {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        padding: 50px 18px;
+    }
+
+    .free_delivery {
+        margin: 23px;
+    }
+
+    .free_delivery h2 {
+        font-size: 20px;
+    }
+
+    .free_delivery_text {
+        font-size: 15px;
+        margin: 10px 0px;
+    }
+
+    .iphonese {
+        flex-wrap: wrap;
+    }
+    .iphonese-div {
+        margin: 0px;
+        width: 100%;
+        padding-top: 60px;
+    }
+    .iphonese img {
+        width: 45%;
+    }
+
+    .appleisbest_div {
+        width: 98%;
+    }
+    
+    .Guid_div {   
+        margin-right: 170px;
+    }
+    
+    .footer_line1, .footer_line2, .footer_line3, .footer_line4, .footer_line5  {
+        margin: 14px;
+    }
+
+    .footerul_heading {
+        font-weight: bold;
+        font-size: 12px;
+        color: rgb(19, 19, 19);
+    }
+    
+    .footerli li {
+        margin: 10px 0px;
+        font-size: 11px;
+        color: #414040;
+    }
+    
+    .footer_first_sub {
+        padding-top: 15px;
+    }
+
+    .footer_endnav {
+        display: none;
+    }
+    .footer_endcopyright {
+        font-size: 11px;
+    }  
+    .footer_endcountry {
+        display: none;
+    }
+
+    .saveiphone_sub {
+        flex-wrap: wrap;
+        margin-bottom: 30px;
+    }
+    
+    .saveiphone_credit, .saveiphone_pay {
+        width: 90%;
+        height: 550px;
+        padding-top: 20px;
+    }
+    
+}
+
+
+
+
+@media screen and (max-width:600px) and (min-width:375px) {
+    
+    nav a {
+        display: none;
+    }
+    nav {
+        justify-content: space-between;
+    }
+    .nav_apple_logo {
+        float: left;
+    }
+
+    .iphone14 img {
+        width: 90%;
+        margin: 40px 0px;
+        padding: 20px;
+        margin-bottom: -20px;
+    }
+    .iphone14pro img {
+        width: 100%;
+    }
+
+    .compare_main_heading {
+        font-size: 22px;
+        
+    }
+    .saveiphone_mainheading {
+        font-size: 22px;
+        padding: 72px 0px;
+        margin-top: -40px;
+    }
+
+    .compare_section {
+        flex-wrap: wrap;
+        padding: 52px 0px 0px 0px;
+    }
+    .compare14pro, .compare14{
+        width: 40%;
+    }
+    .compare13, .comparese {
+        width: 40%;
+    }
+    .compare_img2 {
+        margin: 20px auto;
+        width: 80px;
+        display: flex;
+        justify-content: center;
+    }
+    .compare_hr {
+        width: 110px;
+        margin: 25px auto; 
+        display: flex;
+        justify-content: center; 
+    }
+    
+    .compareall {
+        flex-wrap: wrap;
+    }
+    
+    .compareall p {
+        font-size: 15px;
+        margin: 6px auto;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .saveiphone_credit, .saveiphone_pay {
+        width: 50%;
+    }
+
+    .magsafe {
+        width: 90%;
+        height: 725px;
+        background-position: bottom;
+    }
+    .magsafe_div {
+        display: contents;
+    }
+    .magsafe_left {
+        padding-top: 70px;
+        margin: 0px;
+    }
+
+    .airtag {
+        width: 90%;
+        height: 790px;
+        background-position: bottom;
+    }
+    .airtag_left {
+        padding-top: 70px;
+        margin: 0px;
+    }
+
+    .magic_div h1 {
+        font-size: 18px;
+    }
+    .magic_div p {
+        font-size: 14px;
+    }
+
+    .magic{
+        width: 90%;
+        height: 490px;
+        background-position: bottom;
+    }
+
+    .magic_div_text {
+        margin: -100px;
+    }
+
+    .free {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        padding: 50px 18px;
+        flex-wrap: wrap;
+    }
+
+    .free_delivery {
+        margin: 23px;
+    }
+
+    .free_delivery h2 {
+        font-size: 20px;
+    }
+
+    .free_delivery_text {
+        font-size: 15px;
+        margin: 10px 0px;
+    }
+
+    .iphonese {
+        flex-wrap: wrap;
+    }
+    .iphonese-div {
+        margin: 0px;
+        width: 100%;
+        padding-top: 60px;
+    }
+    .iphonese img {
+        width: 60%;
+    }
+
+    .appleisbest_div {
+        width: 98%;
+        background-size: 180% 60%;
+        margin: -98px 0px;
+        padding: 145px 0px;
+    }
+
+    .magsafe_left h1 {
+        font-size: 20px;
+    }
+    .magsafe_left_text {
+        margin: 20px 0px;
+        font-size: 16px;
+    }
+    .magsafe_left_shop {
+        color: #0071e3;
+        font-size: 15px;
+    }
+    .Guid_div {   
+        display: none;
+    }
+
+    .footer_end {
+        margin-left: 0px;
+    }
+
+    .Guid {
+
+        height: 814px;
+        background-repeat: no-repeat;
+        background-position: right;
+        border-radius: 0px;
+        margin: -135px 20px -200px 20px;
+        background-size: 800px 60%;
+    }
+
+    .footer_line1, .footer_line2, .footer_line3, .footer_line4, .footer_line5  {
+        display: none;
+    }
+
+    .footer_endnav {
+        display: none;
+    }
+    .footer_endcopyright {
+        font-size: 11px;
+    }  
+    .footer_endcountry {
+        display: none;
+    }
+
+            .saveiphone_sub {
+                flex-wrap: wrap;
+                margin-bottom: 30px;
+            }
+    
+            .saveiphone_credit {
+                width: 90%;
+                height: 455px;
+                padding-top: 20px;
+            }
+
+            .saveiphone_pay {
+                width: 90%;
+                height: 545px;
+                padding-top: 20px;
+            }
+
+
+            .appleisbest_div h1 {
+                font-size: 20px;
+            }
+            .appleisbest_p p {
+                font-size: 13px;
+            }
+            .appleisbest_learnmore {
+                font-size: 15px;
+    
+            }
+
+        .iphone14 h1 {
+            font-size: 35px;
+        }
+
+        .iphone14_p {
+            font-size: 17px !important;
+            padding: 0px 20px;
+        }
+
+        .iphone14pro h1 {
+            font-size: 35px;
+        }
+
+        .iphonese h1 {
+            font-size: 35px;
+        }
+
+        .compare_img1 {
+            width: 121px;
+            height: 155px;
+        }
+
+        .compare_mainheading h2 {
+            font-size: 17px;
+        }
+
+        .compare_mainheading p {
+            margin-top: 10px;
+            font-size: 13px;
+        }
+
+        .compare_price {
+            margin: 30px 0px !important;
+            font-size: 15px;
+        }
+        .compare_price, p, button {
+            margin: 7px 0px;
+        }
+
+        .saveiphone_paytext {
+            font-size: 12px;
+        }
+
+        .airtag_left h1 {
+            font-size: 18px;
+        }
+
+        .airtag_left p {
+            font-size: 14px;
+        }
+
+        .compare_price button {
+            background-color: #0e78e3;
+            color: white;
+            width: 55px;
+            height: 30px;
+            border: none;
+            border-radius: 20px;
+            font-size: 15px;
+        }
+
+        .compare_display {
+            margin: 30px 0px;
+        }
+        .compare_inch {
+            font-size: 18px;
+            margin: 12px 0px;
+            font-weight: 500;
+        }
+        .compare_displaytext {
+            font-size: 13px;
+            margin: 12px 0px;
+            font-weight: 500;
+        }
+
+        .compare_dynamic {
+            margin: 45px 0px;
+            font-size: 15px;
+        }
+        .compare_dynamictext {
+            color: #868686;
+            font-size: 13px;
+        }
+
+        .compare_sos {
+            margin: 45px 0px;
+            font-size: 15px;
+        }
+        .compare_sostext {
+            margin: 12px 0px;
+            font-size: 13px;
+        }
+
+        .compare_camera {
+            margin: 45px 0px;
+            font-size: 15px;
+        }
+
+        .compare_cameratext {
+            color: #868686;
+            font-size: 13px;
+        }
+
+        .compare_action {
+            margin: 45px 0px;
+            font-size: 15px;
+        }
+
+        .compare_battery {
+            margin: 45px 0px;
+            font-size: 13px;
+        }
+
+        .compare14pro_ios {
+            margin: 45px 0px;
+            font-size: 15px;
+        }
+
+        .compare_faceid {
+            margin: 45px 0px;
+            font-size: 13px;
+        }
+
+        .compare_5g {
+            margin: 45px 0px;
+            font-size: 13px;
+        } 
+
+
+        .saveiphone_credittext h2 {
+            font-size: 15px;
+        }
+        .saveiphone_credittext p {
+            font-size: 12px;
+        }
+
+        .saveiphone_paytext_text h2 {
+            font-size: 15px;
+        }
+        .saveiphone_paytext_text p {
+            font-size: 12px;
+        }
+
+
+}
+
+
+
+
+
+@media screen and (max-width:375px) and (min-width:200px) {
+    
+    body, html {overflow-x: hidden;}
+    
+    nav a {
+        display: none;
+    }
+    nav {
+        justify-content: space-between;
+    }
+    .nav_apple_logo {
+        float: left;
+    }
+
+    .iphone14 img {
+        width: 90%;
+        margin: 40px 0px;
+        padding: 20px;
+        margin-bottom: -20px;
+    }
+    .iphone14pro img {
+        width: 100%;
+    }
+
+    .compare_main_heading {
+        font-size: 18px;
+        
+    }
+    .saveiphone_mainheading {
+        font-size: 18px;
+        padding: 72px 0px;
+        margin-top: -40px;
+    }
+
+    .compare_section {
+        flex-wrap: wrap;
+        padding: 85px 0px 0px 0px;
+        margin: -30px !important;
+    }
+    .compare14pro, .compare14{
+        width: 50%;
+    }
+    .compare13, .comparese {
+        width: 50%;
+    }
+    .compare_img2 {
+        margin: 20px auto;
+        width: 80px;
+        display: flex;
+        justify-content: center;
+    }
+    .compare_hr {
+        width: 110px;
+        margin: 25px auto; 
+        display: flex;
+        justify-content: center; 
+    }
+    
+    
+    .compareall {
+        flex-wrap: wrap;
+        margin-top: 40px;
+    }
+    
+    .compareall p {
+        font-size: 15px;
+        margin: 6px auto;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .saveiphone_credit, .saveiphone_pay {
+        width: 50%;
+    }
+
+    .magsafe {
+        width: 90%;
+        height: 725px;
+        background-position: bottom;
+    }
+    .magsafe_div {
+        display: contents;
+    }
+    .magsafe_left {
+        padding-top: 70px;
+        margin: 0px;
+    }
+
+    .airtag {
+        width: 90%;
+        height: 790px;
+        background-position: bottom;
+    }
+    .airtag_left {
+        padding-top: 70px;
+        margin: 0px;
+    }
+
+    .magic_div h1 {
+        font-size: 18px;
+    }
+    .magic_div p {
+        font-size: 14px;
+    }
+
+    .magic{
+        width: 90%;
+        height: 490px;
+        background-position: bottom;
+    }
+
+    .magic_div_text {
+        margin: -100px;
+    }
+
+    .free {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        padding: 50px 18px;
+        flex-wrap: wrap;
+    }
+
+    .free_delivery {
+        margin: 23px;
+    }
+
+    .free_delivery h2 {
+        font-size: 20px;
+    }
+
+    .free_delivery_text {
+        font-size: 15px;
+        margin: 10px 0px;
+    }
+
+    .iphonese {
+        flex-wrap: wrap;
+    }
+    .iphonese-div {
+        margin: 0px;
+        width: 100%;
+        padding-top: 60px;
+    }
+    .iphonese img {
+        width: 60%;
+    }
+
+    .appleisbest_div {
+        width: 98%;
+        background-size: 230% 60%;
+        margin: -98px 0px;
+        padding: 145px 0px;
+    }
+
+    .magsafe_left h1 {
+        font-size: 20px;
+    }
+    .magsafe_left_text {
+        margin: 20px 0px;
+        font-size: 16px;
+    }
+    .magsafe_left_shop {
+        color: #0071e3;
+        font-size: 15px;
+    }
+    .Guid_div {   
+        display: none;
+    }
+    
+    .footer_end {
+    margin-left: 0px;
+}
+
+    .Guid {
+
+        height: 814px;
+        background-repeat: no-repeat;
+        background-position: right;
+        border-radius: 0px;
+        margin: -135px 20px -200px 20px;
+        background-size: 800px 60%;
+    }
+
+
+    .footer_line1, .footer_line2, .footer_line3, .footer_line4, .footer_line5  {
+        display: none;
+    }
+
+    .footer_endnav {
+        display: none;
+    }
+    .footer_endcopyright {
+        font-size: 11px;
+    }  
+    .footer_endcountry {
+        display: none;
+    }
+
+
+    .saveiphone_sub {
+        flex-wrap: wrap;
+        margin-bottom: 30px;
+    }
+    
+    .saveiphone_credit {
+        width: 90%;
+        height: 455px;
+        padding-top: 20px;
+    }
+
+    .saveiphone_pay {
+        width: 90%;
+        height: 545px;
+        padding-top: 20px;
+    }
+
+    .appleisbest_div h1 {
+        font-size: 20px;
+    }
+
+    .appleisbest_p p {
+        font-size: 13px;
+    }
+
+    .appleisbest_learnmore {
+        font-size: 15px;
+    }
+
+    .iphone14 h1 {
+        font-size: 35px;
+    }
+
+    .iphone14_p {
+        font-size: 17px !important;
+        padding: 0px 20px;
+    }
+
+    .iphone14pro h1 {
+        font-size: 35px;
+    }
+
+    .iphonese h1 {
+        font-size: 35px;
+    }
+
+    .compare_img1 {
+        width: 121px;
+        height: 155px;
+    }
+
+    .compare_mainheading h2 {
+        font-size: 17px;
+    }
+
+    .compare_mainheading p {
+        margin-top: 10px;
+        font-size: 13px;
+    }
+
+    .compare_price {
+        margin: 30px 0px !important;
+        font-size: 15px;
+    }
+    .compare_price, p, button {
+        margin: 7px 0px;
+    }
+
+    .saveiphone_paytext {
+        font-size: 12px;
+    }
+
+
+    .airtag_left h1 {
+        font-size: 18px;
+    }
+
+    .airtag_left p {
+        font-size: 14px;
+    }
+
+    .compare_price button {
+        background-color: #0e78e3;
+        color: white;
+        width: 55px;
+        height: 30px;
+        border: none;
+        border-radius: 20px;
+        font-size: 15px;
+    }
+
+    .compare_display {
+        margin: 30px 0px;
+    }
+    .compare_inch {
+        font-size: 18px;
+        margin: 12px 0px;
+        font-weight: 500;
+    }
+    .compare_displaytext {
+        font-size: 13px;
+        margin: 12px 0px;
+        font-weight: 500;
+    }
+
+    .compare_dynamic {
+        margin: 45px 0px;
+        font-size: 15px;
+    }
+    .compare_dynamictext {
+        color: #868686;
+        font-size: 13px;
+    }
+
+    .compare_sos {
+        margin: 45px 0px;
+        font-size: 15px;
+    }
+    .compare_sostext {
+        margin: 12px 0px;
+        font-size: 13px;
+    }
+
+    .compare_camera {
+        margin: 45px 0px;
+        font-size: 15px;
+    }
+
+    .compare_cameratext {
+        color: #868686;
+        font-size: 13px;
+    }
+
+    .compare_action {
+        margin: 45px 0px;
+        font-size: 15px;
+    }
+
+    .compare_battery {
+        margin: 45px 0px;
+        font-size: 13px;
+    }
+
+    .compare14pro_ios {
+        margin: 45px 0px;
+        font-size: 15px;
+    }
+
+    .compare_faceid {
+        margin: 45px 0px;
+        font-size: 13px;
+    }
+
+    .compare_5g {
+        margin: 45px 0px;
+        font-size: 13px;
+    } 
+
+    .saveiphone_credittext h2 {
+        font-size: 15px;
+    }
+    .saveiphone_credittext p {
+        font-size: 12px;
+    }
+
+    .saveiphone_paytext_text h2 {
+        font-size: 15px;
+    }
+    .saveiphone_paytext_text p {
+        font-size: 12px;
+    }
+
+
+}
